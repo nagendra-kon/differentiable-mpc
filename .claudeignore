@@ -1,0 +1,13 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pt
+*.pth
+*.png
+*.mp4
+runs/
+checkpoints/
+data/
+.git/
+.repo_context.xml
